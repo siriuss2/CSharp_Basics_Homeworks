@@ -1,0 +1,15 @@
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.ClassWork\SEDC.ClassWork_01\bin\Debug\net6.0\SEDC.ClassWork_01.exe
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.ClassWork\SEDC.ClassWork_01\bin\Debug\net6.0\SEDC.ClassWork_01.deps.json
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.ClassWork\SEDC.ClassWork_01\bin\Debug\net6.0\SEDC.ClassWork_01.runtimeconfig.json
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.ClassWork\SEDC.ClassWork_01\bin\Debug\net6.0\SEDC.ClassWork_01.dll
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.ClassWork\SEDC.ClassWork_01\bin\Debug\net6.0\SEDC.ClassWork_01.pdb
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.ClassWork\SEDC.ClassWork_01\obj\Debug\net6.0\SEDC.ClassWork_01.csproj.AssemblyReference.cache
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.ClassWork\SEDC.ClassWork_01\obj\Debug\net6.0\SEDC.ClassWork_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.ClassWork\SEDC.ClassWork_01\obj\Debug\net6.0\SEDC.ClassWork_01.AssemblyInfoInputs.cache
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.ClassWork\SEDC.ClassWork_01\obj\Debug\net6.0\SEDC.ClassWork_01.AssemblyInfo.cs
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.ClassWork\SEDC.ClassWork_01\obj\Debug\net6.0\SEDC.ClassWork_01.csproj.CoreCompileInputs.cache
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.ClassWork\SEDC.ClassWork_01\obj\Debug\net6.0\SEDC.ClassWork_01.dll
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.ClassWork\SEDC.ClassWork_01\obj\Debug\net6.0\refint\SEDC.ClassWork_01.dll
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.ClassWork\SEDC.ClassWork_01\obj\Debug\net6.0\SEDC.ClassWork_01.pdb
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.ClassWork\SEDC.ClassWork_01\obj\Debug\net6.0\SEDC.ClassWork_01.genruntimeconfig.cache
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.ClassWork\SEDC.ClassWork_01\obj\Debug\net6.0\ref\SEDC.ClassWork_01.dll

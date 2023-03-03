@@ -1,0 +1,15 @@
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.Homework_02\SEDC.Homework02\bin\Debug\net6.0\SEDC.Homework02_Exercise_01.exe
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.Homework_02\SEDC.Homework02\bin\Debug\net6.0\SEDC.Homework02_Exercise_01.deps.json
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.Homework_02\SEDC.Homework02\bin\Debug\net6.0\SEDC.Homework02_Exercise_01.runtimeconfig.json
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.Homework_02\SEDC.Homework02\bin\Debug\net6.0\SEDC.Homework02_Exercise_01.dll
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.Homework_02\SEDC.Homework02\bin\Debug\net6.0\SEDC.Homework02_Exercise_01.pdb
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.Homework_02\SEDC.Homework02\obj\Debug\net6.0\SEDC.Homework02_Exercise_01.csproj.AssemblyReference.cache
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.Homework_02\SEDC.Homework02\obj\Debug\net6.0\SEDC.Homework02_Exercise_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.Homework_02\SEDC.Homework02\obj\Debug\net6.0\SEDC.Homework02_Exercise_01.AssemblyInfoInputs.cache
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.Homework_02\SEDC.Homework02\obj\Debug\net6.0\SEDC.Homework02_Exercise_01.AssemblyInfo.cs
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.Homework_02\SEDC.Homework02\obj\Debug\net6.0\SEDC.Homework02_Exercise_01.csproj.CoreCompileInputs.cache
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.Homework_02\SEDC.Homework02\obj\Debug\net6.0\SEDC.Homework02_Exercise_01.dll
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.Homework_02\SEDC.Homework02\obj\Debug\net6.0\refint\SEDC.Homework02_Exercise_01.dll
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.Homework_02\SEDC.Homework02\obj\Debug\net6.0\SEDC.Homework02_Exercise_01.pdb
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.Homework_02\SEDC.Homework02\obj\Debug\net6.0\SEDC.Homework02_Exercise_01.genruntimeconfig.cache
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.Homework_02\SEDC.Homework02\obj\Debug\net6.0\ref\SEDC.Homework02_Exercise_01.dll
