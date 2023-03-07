@@ -1,0 +1,15 @@
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\BonusHomework\BonusHomework\bin\Debug\net6.0\BonusHomework.exe
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\BonusHomework\BonusHomework\bin\Debug\net6.0\BonusHomework.deps.json
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\BonusHomework\BonusHomework\bin\Debug\net6.0\BonusHomework.runtimeconfig.json
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\BonusHomework\BonusHomework\bin\Debug\net6.0\BonusHomework.dll
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\BonusHomework\BonusHomework\bin\Debug\net6.0\BonusHomework.pdb
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\BonusHomework\BonusHomework\obj\Debug\net6.0\BonusHomework.csproj.AssemblyReference.cache
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\BonusHomework\BonusHomework\obj\Debug\net6.0\BonusHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\BonusHomework\BonusHomework\obj\Debug\net6.0\BonusHomework.AssemblyInfoInputs.cache
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\BonusHomework\BonusHomework\obj\Debug\net6.0\BonusHomework.AssemblyInfo.cs
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\BonusHomework\BonusHomework\obj\Debug\net6.0\BonusHomework.csproj.CoreCompileInputs.cache
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\BonusHomework\BonusHomework\obj\Debug\net6.0\BonusHomework.dll
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\BonusHomework\BonusHomework\obj\Debug\net6.0\refint\BonusHomework.dll
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\BonusHomework\BonusHomework\obj\Debug\net6.0\BonusHomework.pdb
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\BonusHomework\BonusHomework\obj\Debug\net6.0\BonusHomework.genruntimeconfig.cache
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\BonusHomework\BonusHomework\obj\Debug\net6.0\ref\BonusHomework.dll
