@@ -1,0 +1,15 @@
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.HomeWork_04\SEDC.HomeWork_04_Task.01\bin\Debug\net6.0\SEDC.HomeWork_04_Task.01.exe
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.HomeWork_04\SEDC.HomeWork_04_Task.01\bin\Debug\net6.0\SEDC.HomeWork_04_Task.01.deps.json
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.HomeWork_04\SEDC.HomeWork_04_Task.01\bin\Debug\net6.0\SEDC.HomeWork_04_Task.01.runtimeconfig.json
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.HomeWork_04\SEDC.HomeWork_04_Task.01\bin\Debug\net6.0\SEDC.HomeWork_04_Task.01.dll
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.HomeWork_04\SEDC.HomeWork_04_Task.01\bin\Debug\net6.0\SEDC.HomeWork_04_Task.01.pdb
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.HomeWork_04\SEDC.HomeWork_04_Task.01\obj\Debug\net6.0\SEDC.HomeWork_04_Task.01.csproj.AssemblyReference.cache
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.HomeWork_04\SEDC.HomeWork_04_Task.01\obj\Debug\net6.0\SEDC.HomeWork_04_Task.01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.HomeWork_04\SEDC.HomeWork_04_Task.01\obj\Debug\net6.0\SEDC.HomeWork_04_Task.01.AssemblyInfoInputs.cache
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.HomeWork_04\SEDC.HomeWork_04_Task.01\obj\Debug\net6.0\SEDC.HomeWork_04_Task.01.AssemblyInfo.cs
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.HomeWork_04\SEDC.HomeWork_04_Task.01\obj\Debug\net6.0\SEDC.HomeWork_04_Task.01.csproj.CoreCompileInputs.cache
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.HomeWork_04\SEDC.HomeWork_04_Task.01\obj\Debug\net6.0\SEDC.HomeWork_04_Task.01.dll
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.HomeWork_04\SEDC.HomeWork_04_Task.01\obj\Debug\net6.0\refint\SEDC.HomeWork_04_Task.01.dll
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.HomeWork_04\SEDC.HomeWork_04_Task.01\obj\Debug\net6.0\SEDC.HomeWork_04_Task.01.pdb
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.HomeWork_04\SEDC.HomeWork_04_Task.01\obj\Debug\net6.0\SEDC.HomeWork_04_Task.01.genruntimeconfig.cache
+C:\Users\Dragan\Desktop\CSharp_Basics_Homeworks\SEDC.HomeWork_04\SEDC.HomeWork_04_Task.01\obj\Debug\net6.0\ref\SEDC.HomeWork_04_Task.01.dll

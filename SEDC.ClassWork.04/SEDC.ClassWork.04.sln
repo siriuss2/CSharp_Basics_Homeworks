@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.ClassWork.04_Exercise_01", "SEDC.ClassWork.04_Exercise_01\SEDC.ClassWork.04_Exercise_01.csproj", "{4228DA53-C117-4CF4-9F89-61D5E836BD48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.ClassWork.04_Exercise_02", "SEDC.ClassWork.04_Exercise_02\SEDC.ClassWork.04_Exercise_02.csproj", "{679C42B9-D1A4-48EE-A8AF-68F77D37C3E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4228DA53-C117-4CF4-9F89-61D5E836BD48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4228DA53-C117-4CF4-9F89-61D5E836BD48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4228DA53-C117-4CF4-9F89-61D5E836BD48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4228DA53-C117-4CF4-9F89-61D5E836BD48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{679C42B9-D1A4-48EE-A8AF-68F77D37C3E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679C42B9-D1A4-48EE-A8AF-68F77D37C3E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679C42B9-D1A4-48EE-A8AF-68F77D37C3E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679C42B9-D1A4-48EE-A8AF-68F77D37C3E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BB32EE2-534B-4DE8-9358-D53D01EBA85F}
+	EndGlobalSection
+EndGlobal
