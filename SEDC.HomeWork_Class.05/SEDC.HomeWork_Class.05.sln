@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Homework_Task_01", "SEDC.Homework_Task_01\SEDC.Homework_Task_01.csproj", "{99357833-CFA4-4A74-BE7C-EF8C20B98CF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Homework_Task_02", "SEDC.Homework_Task_02\SEDC.Homework_Task_02.csproj", "{21296C3B-9EBF-4432-AD1F-D13B178074DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99357833-CFA4-4A74-BE7C-EF8C20B98CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99357833-CFA4-4A74-BE7C-EF8C20B98CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99357833-CFA4-4A74-BE7C-EF8C20B98CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99357833-CFA4-4A74-BE7C-EF8C20B98CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21296C3B-9EBF-4432-AD1F-D13B178074DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21296C3B-9EBF-4432-AD1F-D13B178074DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21296C3B-9EBF-4432-AD1F-D13B178074DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21296C3B-9EBF-4432-AD1F-D13B178074DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E55B484-978E-43BF-866C-AA27C93BBFD6}
+	EndGlobalSection
+EndGlobal

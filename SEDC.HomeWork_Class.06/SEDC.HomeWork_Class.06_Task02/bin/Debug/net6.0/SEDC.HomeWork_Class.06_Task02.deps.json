@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SEDC.HomeWork_Class.06_Task02/1.0.0": {
+        "runtime": {
+          "SEDC.HomeWork_Class.06_Task02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEDC.HomeWork_Class.06_Task02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
