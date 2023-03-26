@@ -1,0 +1,5 @@
+C:\Users\Dragan\Desktop\CSharp_Exercises\CSharp_Movie\CSharp_Movie_Exercise\obj\Debug\net6.0\CSharp_Movie_Exercise.csproj.AssemblyReference.cache
+C:\Users\Dragan\Desktop\CSharp_Exercises\CSharp_Movie\CSharp_Movie_Exercise\obj\Debug\net6.0\CSharp_Movie_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragan\Desktop\CSharp_Exercises\CSharp_Movie\CSharp_Movie_Exercise\obj\Debug\net6.0\CSharp_Movie_Exercise.AssemblyInfoInputs.cache
+C:\Users\Dragan\Desktop\CSharp_Exercises\CSharp_Movie\CSharp_Movie_Exercise\obj\Debug\net6.0\CSharp_Movie_Exercise.AssemblyInfo.cs
+C:\Users\Dragan\Desktop\CSharp_Exercises\CSharp_Movie\CSharp_Movie_Exercise\obj\Debug\net6.0\CSharp_Movie_Exercise.csproj.CoreCompileInputs.cache
